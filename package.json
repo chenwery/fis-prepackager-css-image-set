@@ -1,17 +1,25 @@
 {
   "name": "fis-prepackager-css-image-set",
-  "version": "0.0.58",
-  "description": "A FIS prepackager for css-image-set",
+  "version": "1.0.0",
+  "description": "A FIS prepackager for css image-set",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenwery/fis-prepackager-css-image-set.git"
   },
   "keywords": [
     "fis",
     "image-set"
   ],
-  "author": "data4y",
+  "author": "chenwery",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenwery/fis-prepackager-css-image-set/issues"
+  },
+  "homepage": "https://github.com/chenwery/fis-prepackager-css-image-set",
   "dependencies": {
     "images": "~2.0.0"
   }
