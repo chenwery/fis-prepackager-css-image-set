@@ -1,9 +1,3 @@
-/**
- * Thanks for:
- * https://github.com/fouber/fis-preprocessor-image-set
- * https://github.com/fis-dev/fis-prepackager-css-scale
- */
-
 'use strict';
 
 var SCALE = 0.5;
